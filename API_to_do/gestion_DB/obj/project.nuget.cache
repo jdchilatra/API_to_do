@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZvAqFA+ad99RXIm75Wb92QZILundMgKxDcvZ15frxNPnLL9u1JMFlqtYzpkwvpmIDCZfHaS7OtI56WxQKHPFfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\Repositorios\\API_to_do\\API_to_do\\API_to_do\\gestion_DB\\gestion_DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
